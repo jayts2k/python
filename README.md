@@ -1,3 +1,3 @@
-**PYTHON Exercises
+**PYTHON Exercises**
 
-*Author: J. Smith
+*Author: J. Smith*
